@@ -1,0 +1,5 @@
+J A V A S C R I P T
+
+Variables: var [nombre];
+Funciones: function nombre_funcion(){  [code];  };
+Impresones: console.log(variable);
